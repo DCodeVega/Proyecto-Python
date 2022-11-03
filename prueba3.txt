@@ -1,0 +1,5 @@
+print("INGRES UN VALOR")
+
+#include<iostream>
+ scout <<''hola mundo del grupo'';
+siguiente parrafo
